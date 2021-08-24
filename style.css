@@ -1,24 +1,24 @@
 body {
     text-align: center;
-    margin-top: 100px;
+    margin-top: 10px;
 }
 
-form {
-    margin-top: 20px;
- 
-}
+
 ul {
     list-style-type: none;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     overflow: hidden;
-}
-li {
-    float: right;
 
-    display: block;
-    text-align: center;
-    text-decoration: none;
-    padding: 14px 15px;
-    margin-top: 10px;
+}
+ul.nav {
+    float: right;
+}
+.logo {
+    margin-top: 100px;
+    margin-left: 70px;
+}
+
+clicks {
+    
 }
