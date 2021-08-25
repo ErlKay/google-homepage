@@ -84,18 +84,14 @@ footer {
     width: 100vw;
 }
 #footer-left {
-    display: flex;
-    align-items: center;
-    justify-self: start;
+    float: left;
     padding-left: 20px;
+    margin-top: 10px;
 }
-#footer-middle {
-    display: flex;
-    align-items: center;
-    justify-self: center;
-}
+
+
 #footer-right {
-    display: flex;
-    justify-self: end;
+   float: right;
     align-items: center;
+    margin-bottom: 10px;
 }
